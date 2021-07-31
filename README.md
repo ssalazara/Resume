@@ -1,7 +1,6 @@
-# Simón Salazar Albornoz 🐜 !
+# Simón Salazar Albornoz 🦉 []
 
-Resumen de experiencia laboral relevante para la postulación ☕
+Presentación en ingles que exponga motivaciones y perspectivas☕
 
-
-#### Probando formatos 
+#### Studies: Sociologist (Dic 2016) by the [Universidad de Concepcion](https://admision.udec.cl/sociologia/) 
 
