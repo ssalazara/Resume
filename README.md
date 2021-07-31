@@ -6,13 +6,23 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 
 ## Work Experience
 
----
 ### Content Creator - [_PostedIn_](https://www.postedin.com/)
 #### _30 APR 2021 – Current_
 
 Content creator in the technology area, writing technical articles on web development methodologies, automation
 software, start-up and different IT developments.
 The target audience are CTO, managers of digital areas, ecommerce and customer experience.
+
+---
+### CONTENT MANAGER - [_PARTIDO ECOLOGISTA VERDE_](https://www.ecologistas.cl/)
+#### _30 APR 2021 – Current_
+
+Responsible for the generation of political, theoretical and social content as a way to complement the political program
+of the Green Party using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and
+national and international press. Addressing issues such as Climate Change, Forestry Law, de-centralization, Animal
+Law, Digital Sovereignty, Data Governance, among other topics. I also perform back-end support and analyst functions
+in the Data Management structure of the party, maintaining databases, web page and automation of documentation
+review functions using Python
 
 ---
 
