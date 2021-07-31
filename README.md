@@ -6,13 +6,15 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 
 ## Work Experience
 
-#### _30 APR 2021 – Current_
-##### _Santiago, Chile_
+---
 ### Content Creator - [_PostedIn_](https://www.postedin.com/)
-
+#### _30 APR 2021 – Current_
+_Santiago, Chile_
 Content creator in the technology area, writing technical articles on web development methodologies, automation
 software, start-up and different IT developments.
 The target audience are CTO, managers of digital areas, ecommerce and customer experience.
+
+
 
 ---
 
