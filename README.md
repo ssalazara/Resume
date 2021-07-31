@@ -13,5 +13,7 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 Content creator in the technology area, writing technical articles on web development methodologies, automation
 software, start-up and different IT developments.
 The target audience are CTO, managers of digital areas, ecommerce and customer experience.
+
 ---
+
 [imagen previsualizacion](https://www.pexels.com/es-es/foto/arte-azul-purpura-abstracto-5011647/)
