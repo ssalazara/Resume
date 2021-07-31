@@ -19,7 +19,7 @@ The target audience are CTO, managers of digital areas, ecommerce and customer e
 
 Responsible for the generation of political, theoretical and social content as a way to complement the political program
 of the Green Party using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and
-national and international press. Addressing issues such as Climate Change, Forestry Law, de-centralization, Animal
+national and international press. Creating content about Climate Change, Forestry Law, de-centralization, Animal
 Law, Digital Sovereignty, Data Governance, among other topics.
 
 ---
