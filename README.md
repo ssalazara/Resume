@@ -10,6 +10,9 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 ### Technical Skills
 * Python | SQL | Statistic | Linux | HTML | JavaScript
 
+### Certifications
+* English: IELTS (overall) 6.5
+
 ---
 ## Work Experience
 
