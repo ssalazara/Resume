@@ -24,4 +24,4 @@ Law, Digital Sovereignty, Data Governance, among other topics.
 
 ---
 
-[imagen previsualizacion](https://www.pexels.com/es-es/foto/arte-azul-purpura-abstracto-5011647/)
+![imagen previsualizacion](https://github.com/ssadata/Resume/blob/main/image/pexels-rostislav-uzunov-5011647.jpg)
