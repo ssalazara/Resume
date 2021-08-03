@@ -27,5 +27,28 @@ national and international press. Creating content about Climate Change, Forestr
 Law, Digital Sovereignty, Data Governance, among other topics.
 
 ---
+### Election Coordinator - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
+#### _01 Oct - 29 Jan 2021_
+Part of the team that is leading the process of selection, registration, coordination and training of the candidates for
+different positions in the election of April 2021m Chile. In charge of elaborating the databases, file repositories,
+coordination of the workflow and support of the political-administrative coordination and support of the political-
+administrative training process of the candidates through the execution of the 'Green School'.
+
+---
+### Congress Coordinator - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
+#### _11 Dec 2019 - 30 Sep 2020_
+Responsible for the methodology, moderation and systematization of instances of political participation of PEV
+affiliates in the different regions of the country to obtain public policy proposals and develop these proposals through
+the integration of secondary data and social theory.
+
+---
+### University Research Support - [_Pontificia Universidad Católica de Chile_](https://www.uc.cl/)
+#### _01 Oct 2019 - 29 Apr 2020_
+
+Research assistant in a public health project called "RUCAS" belonging to SALURBAL (international project) with
+developer and analyst functions. In charge of developing the relational database architecture for its visualization in a
+web platform which I developed using Amazon Web Service to host the application which used PostgreSQL to manage
+the databases and visualize the data of a panel study.
+
 []
 ![imagen previsualizacion](https://github.com/ssadata/Resume/blob/main/image/pexels-rostislav-uzunov-5011647.jpg)
