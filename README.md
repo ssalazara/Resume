@@ -7,6 +7,9 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 * Diploma in quantitative methods for social research (Nov 2015) by the [Universidad Diego Portales](https://postgrados.udp.cl/programas/diplomado-en-metodos-cuantitativos-para-la-investigacion-social/), Chile 🇨🇱
 * Diploma in social & enviromental studies (Oct 2017) by the [Universidad de Chile](https://www.uchile.cl/cursos/88872/diplomado-estudios-socioambientales), Chile 🇨🇱
 
+### Technical Skills
+* Python | SQL | Statistic | Linux | HTML | JavaScript
+
 ---
 ## Work Experience
 
