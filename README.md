@@ -8,7 +8,7 @@ I am a social scientist with a degree in sociology 👨‍🎓. Methodical, comm
 * Diploma in social & enviromental studies (Oct 2017) by the [Universidad de Chile](https://www.uchile.cl/cursos/88872/diplomado-estudios-socioambientales), Chile 🇨🇱
 
 ### Technical Skills
-* Python | SQL | Statistic | Linux | HTML | JavaScript
+Python | SQL | Statistic | Linux | HTML | JavaScript
 
 ### Certifications
 * English: IELTS (overall) 6.5
