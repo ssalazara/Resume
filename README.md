@@ -22,17 +22,14 @@ I also enjoy spending my afternoons with my children in our garden and orchard, 
 #### _30 Apr 2021 – Current_
 
 Content creator specialized in IT and cloud-based SaaS. I generate technical articles about web development methodologies, automation
-software, start-up and different kind of solutions. Topics: Jamstack, Static Sites, Composable Commerce, ERP's and hardware specifications. 
+software, start-up and different kind of solutions. _Topics_: Jamstack, Static Sites, Composable Commerce, ERP's and hardware specifications. 
 Our target audience are CTO, managers of digital areas, ecommerce and customer experience.
 
 ---
 ### Content Manager - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
 #### _29 Jan 2021 – 29 Apr 2021_
 
-Responsible for the generation of political, theoretical and social content as a way to complement the political program
-of the Green Party using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and
-national and international press. Creating content about Climate Change, Forestry Law, de-centralization, Animal
-Law, Digital Sovereignty, Data Governance, among other topics.
+Participated in the creation of content about political challenges and social conflicts seeking to contribute to the political program of the Green Party.  Using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and national and international press. _Topics_: Climate Change, Forestry Law, de-centralization, Animal Law, Digital Sovereignty, Data Governance.
 
 ---
 ### Election Coordinator - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
