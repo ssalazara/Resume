@@ -55,5 +55,3 @@ developer and analyst functions. In charge of developing the relational database
 web platform which I developed using Amazon Web Service to host the application which used PostgreSQL to manage
 the databases and visualize the data of a panel study.
 
-[]
-![imagen previsualizacion](https://github.com/ssadata/Resume/blob/main/image/pexels-rostislav-uzunov-5011647.jpg)
