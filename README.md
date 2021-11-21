@@ -1,7 +1,7 @@
 # Simón Salazar Albornoz 🦉 
 
 I am a social scientist with a degree in sociology 👨‍🎓 with specialization in social and environmental research 🌳. Self trained as Python 🐍 analyst & developer. I'm passionate about technologies and their impact in our societies, in order of that, I'm constantly seeking to update my knowledge and skills. Seeking to become in a integral manager who can lead the technological transformations both in public and private organizations.
-I also enjoy spending my afternoons with my children in our garden and orchard, obtaining beautiful food 🍅 🌽 that we cook with love 💚.
+
 ## Studies
 * Sociologist (Dic 2016) by the [Universidad de Concepcion](https://admision.udec.cl/sociologia/), Chile 🇨🇱
 * Diploma in quantitative methods for social research (Nov 2015) by the [Universidad Diego Portales](https://postgrados.udp.cl/programas/diplomado-en-metodos-cuantitativos-para-la-investigacion-social/), Chile 🇨🇱
@@ -10,7 +10,7 @@ I also enjoy spending my afternoons with my children in our garden and orchard, 
 
 
 ### Technical Skills
-- | Python | SQL | Statistic | Linux | 
+- | Python | SQL | HTML | Linux | 
 
 ### Certifications
 * English: IELTS (overall) 6.5
@@ -29,31 +29,34 @@ Our target audience are CTO, managers of digital areas, ecommerce and customer e
 ### Content Manager - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
 #### _29 Jan 2021 – 29 Apr 2021_
 
-Participated in the creation of content about political challenges and social conflicts seeking to contribute to the political program of the Green Party.  Using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and national and international press. _Topics_: Climate Change, Forestry Law, de-centralization, Animal Law, Digital Sovereignty, Data Governance.
+Manager in charge of editing the content created by the political candidates. Seeking to adjust the slogans to the principles and objectives to the political program of the Green Party. I also worked as an information analyst and database manager. Using quantitative and qualitative secondary data analysis, comparative politics, legal analysis and national and international press. _Topics_: Climate Change, Forestry Law, Decentralization, Animal Law, Digital Sovereignty, Data Governance.
 
 ---
 ### Election Coordinator - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
 #### _01 Oct - 29 Jan 2021_
+
 Part of the team that is leading the process of selection, registration, coordination and training of the candidates for
 different positions in the election of April 2021m Chile. In charge of elaborating the databases, file repositories,
 coordination of the workflow and support of the political-administrative coordination and support of the political-
 administrative training process of the candidates through the execution of the 'Green School'.
 
 ---
-### Congress Coordinator - [_Partido Ecologista Verde_](https://www.ecologistas.cl/)
-#### _11 Dec 2019 - 30 Sep 2020_
-Responsible for the methodology, moderation and systematization of instances of political participation of PEV
-affiliates in the different regions of the country to obtain public policy proposals and develop these proposals through
-the integration of secondary data and social theory.
-
----
-### University Research Support - [_Pontificia Universidad Católica de Chile_](https://www.uc.cl/)
+### Research Assistant - [_Pontificia Universidad Católica de Chile_](https://www.uc.cl/)
 #### _01 Oct 2019 - 29 Apr 2020_
 
 Research assistant in a public health project called "RUCAS" belonging to SALURBAL (international project) with
 developer and analyst functions. In charge of developing the relational database architecture for its visualization in a
-web platform which I developed using Amazon Web Service to host the application which used PostgreSQL to manage
-the databases and visualize the data of a panel study.
+web platform which I developed using Amazon Web Service, Docker, PostgreSQL and UI as Metabase for queries. 
 
-[]
-![imagen previsualizacion](https://github.com/ssadata/Resume/blob/main/image/pexels-rostislav-uzunov-5011647.jpg)
+---
+### Research Assistant - [_Universidad de Concepcion_](https://www.udec.cl/)
+#### _01 Jan 2016 - 30 Jan 2017_
+
+Fondecyt project focused on modelling urban mobility patterns in the communes of the Greater Concepción Metropolitan Area, differentiating by the socioeconomic level of the neighbourhood.
+I fulfilled the tasks of a manager of the gathering of information and coordination in the field of the interviewers.
+
+---
+### Research Assistant - [_Universidad de Concepcion_](https://www.udec.cl/)
+#### _01 Jan 2016 - 30 Nov 2016_
+
+A project of the Faculty of Economics of the University of Concepción in association with the Instituto de Fomento Pesquero (IFOP) sought to develop a model to estimate the indirect employment associated with the exploitation of marine biomass in the Bio Bio Region, Chile. My role was to manage the collection of primary information, having to coordinate meetings between managers of the Bio Bio fishing industry and the interviewers. Structure the information and build the database.
